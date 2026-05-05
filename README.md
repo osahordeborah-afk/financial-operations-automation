@@ -12,10 +12,7 @@ A Python-based automation tool for handling basic accounting operations, includi
 - Generate year-end financial summaries
 - Export accounting reports as CSV files
 
-## Role Context
-
-**Graduate Accountant**  
-**August 2023 – Present**
+## Project Context
 
 This project automates key accounting responsibilities such as:
 
